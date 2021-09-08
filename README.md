@@ -2,10 +2,11 @@
 
 ### Compiles and hot-reloads for development
 ```
-1. Clone github repo url to visual studio code
-2. Open the cloned directory in visual studio code
-3. Ensure you have npm installed by command: npm --version
+1. Ensure you have npm and node installed
+2. Clone github repo url to visual studio code
+3. Open the cloned directory in visual studio code
 4. Input comand in local terminal: npm run serve
+5. Copy the localhost address to your browser
 ```
 
 ### All objectives that have been attempted
