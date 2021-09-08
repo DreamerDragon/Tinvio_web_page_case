@@ -1,24 +1,18 @@
 # vue-tinvio_webpage
 
-## Project setup
-```
-npm install
-```
-
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+1. Clone github repo url to visual studio code
+2. Open the cloned dorectory in visual studio code
+3. npm run serve in local terminal
 ```
 
-### Compiles and minifies for production
+### All objectives that have been attempted
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+All the required objectives other than the optional ones
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Time spent on the assignment
+```
+5 hrs
+```
