@@ -137,7 +137,7 @@ export default {
 }
 .postContainer {
   background-color: transparent;
-  height: 28%;
+  height: 61%;
   width: 100%;
   overflow: scroll;
 }
